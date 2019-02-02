@@ -1,0 +1,10 @@
+C:\Users\EMRE\source\repos\WinApp1\WinApp1\bin\Debug\WinApp1.exe.config
+C:\Users\EMRE\source\repos\WinApp1\WinApp1\bin\Debug\WinApp1.exe
+C:\Users\EMRE\source\repos\WinApp1\WinApp1\bin\Debug\WinApp1.pdb
+C:\Users\EMRE\source\repos\WinApp1\WinApp1\obj\Debug\WinApp1.csprojAssemblyReference.cache
+C:\Users\EMRE\source\repos\WinApp1\WinApp1\obj\Debug\WinApp1.Form1.resources
+C:\Users\EMRE\source\repos\WinApp1\WinApp1\obj\Debug\WinApp1.Properties.Resources.resources
+C:\Users\EMRE\source\repos\WinApp1\WinApp1\obj\Debug\WinApp1.csproj.GenerateResource.cache
+C:\Users\EMRE\source\repos\WinApp1\WinApp1\obj\Debug\WinApp1.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\source\repos\WinApp1\WinApp1\obj\Debug\WinApp1.exe
+C:\Users\EMRE\source\repos\WinApp1\WinApp1\obj\Debug\WinApp1.pdb
